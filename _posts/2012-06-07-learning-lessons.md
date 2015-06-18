@@ -1,0 +1,21 @@
+---
+title: Learning Lessons
+layout: post
+tags: [Spiritual Sighs]
+date: 2012-06-07 17:21 -0600
+---
+It often takes a long time to learn lessons and let them sink in. Sometimes we rebel against what we know that life is saying to us. But, sometimes, you get to a point where you can no longer ignore that which is front of you.
+
+Of course, this is also due to a lifetime of things, but in recent months, my mind and heart have finally started opening up to the things I need to know and do. I never imagined, and still waver at times, that I would be able to reach the point I am or get on the path that I am. But, I realize all things will be provided. I just have to seek for those things.
+
+Indeed, this seeking is a lesson that I am learning. Most importantly is what we seek. When I desired peace and joy and strength, where was I looking? I was looking at where I had none. But by bringing my focus repeatedly back to what I truly want and the conditions that I need to have those things, then it will come about.
+
+In and of itself, this is a lesson for me; there is so much beyond my reach. I naturally think to get what I desire, I have to bring it to myself. But time and again, I have been taught what is most important is having the want first. And, then do what is in my power to bring about the circumstances needed for what I desire. If my desire is true and right, in those circumstances, I will see the blessings flourish.
+
+That action, no matter how small, is a critical part. As I have learned more of neuroscience, I realize our brains follow a simple reward-driven focus. The brain will naturally seek to have that release of neurochemicals that make it feel good. An oft used phrase is “What fires together, wires together.” If a certain action brings reward, the brain will form new neural connections to reinforce that. This is why habit — and in its extreme form, addiction — is so powerful. Your brain knows that certain things bring the desired reward, and it will bring all to bring that about.
+
+Luckily, we as humans can recognize this and use it to craft those “right conditions” for whatever we want. What are the things that bring them about? I have once again embraced a long-lost habit of writing and journaling. I know, without a doubt, that it has been instrumental in the healing in all facets of my life that I have experienced in these last six months. When I forget what has worked in the past and let go, of course I don’t see the life I want. But, in retrospect, consistently the happiest and most authentic parts of my life have been when I have been writing. I remember that, and the other little things I know have helped. I no longer do them because I “have to”, but because just as sure as I need my medication to keep my body alive, I need writing and other activities to stay alive emotionally and spiritually.
+
+This brings me to perhaps the key lesson I’ve learned. To remember. Spencer W. Kimball taught that “remember” was the most important word in the English language. Jesus Christ told his disciples that when sending them the Holy Ghost for comfort after he was gone, the Holy Ghost would bring all things to their remembrance. We cannot forget. What fires together, wires together. Neural pathways get formed. If we remember the blessings of our lives and what has worked in the past, what those things were associated with will work for you. It’s fundamental. Also, I have to remember what that I’ve been taught over and over that these things do not work if I don’t remember what has been taught to me as the order of love. I can’t do anything without first receiving the love of God and putting Him first in my life. It is only with his help that I can then show the love and self-care for myself, to have my own needs met. With my needs met, I can then show and share love with others.
+
+I’m still reminding myself of these things, every day and sometimes every hour. I’ve had to go back to first principles over and over in recent times to learn them. As I remember them, I also feel the nudge and the muse to not just keep it inside. I need to write these things. I will be exploring these ideas in greater detail in later blog posts in the coming weeks.

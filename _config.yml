@@ -1,41 +1,42 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
-reading_time:     true
+title:            I am Travis
+description:      The worlds of Travis B. Hartwell
+disqus_shortname:
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: http://iam.travishartwell.net
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Travis B. Hartwell
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "LDS. Meditator. Kidney transplant recipient. On dialysis. Losing vision to Retinitis Pigmentosa. Software Toolsmith. Free/Open Source advocate. Writer. Friend."
+  email:          nafai@travishartwell.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        travisbhartwell
+  facebook:       travisbhartwell
+  github:         travisbhartwell
+  gitlab:         travisbhartwell
+  stackexchange:  http://stackexchange.com/users/6460/travis-b-hartwell
+  linkedin:       travisbhartwell
+  instagram:      travisbhartwell
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +TravisBHartwell
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics: UA-25143601-1
+google_verify: WmaLXA_7GzOWYRF_aJcdtjukq4VdmHE9EJlzVDOFGTc
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify: C445B4E265CC0E3E4ABAA52E3B998CD3
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Denver
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -46,7 +47,7 @@ sass:
   style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 
 # Amount of post to show on home page
 paginate: 5
@@ -66,4 +67,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "*.nix", "vendor", "result"]

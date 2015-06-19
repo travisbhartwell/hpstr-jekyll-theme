@@ -2,7 +2,7 @@
 title: "Driving, in my car"
 layout: post
 tags: [Spiritual Sighs, Travis Tales]
-date: 2011-06-17 18:20 -600
+date: 2011-06-17 18:20 -0600
 ---
 
 ![2009 Honda Civic]({{ site.url }}/images/driving-in-my-car/car.jpg)

@@ -2,7 +2,7 @@
 title: "Quintessential Quotes: The Path of Gentle Warriorship"
 layout: post
 tags: [Quintessential Quotes, Spiritual Sighs]
-date: 2011-08-15 05:27 -0700
+date: 2011-08-15 05:27 -0600
 ---
 
 *…If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.*

@@ -2,7 +2,7 @@
 title: No Apologies, or, provoco et non transverto
 layout: post
 tags: [Quintessential Quotes, Spiritual Sighs]
-date: 2012-02-24 02:42 -0700
+date: 2012-02-24 02:42 -0600
 ---
 1.
 

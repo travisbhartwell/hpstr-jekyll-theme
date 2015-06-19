@@ -2,7 +2,7 @@
 title: "The Real Metric of Personal Growth: The Sign of the Derivative of the Magnitude vs. Time Curve"
 layout: post
 tags: [Spiritual Sighs]
-date: 2011-11-13 08:01 -0700
+date: 2011-11-13 08:01 -0600
 ---
 
 It’s no secret that I have had and am having great personal struggles in many areas of my life. As I fight to make sense of my life and where I am, I have many conversations seeking the wisdom of those I trust. Last week, in one of these conversations, I was reminded once again of a principle I learned a while ago from a different wise friend. I believe I need to write it down and attempt to explain this principle so it sticks this time. I know that truth, the kind of truth that has power to change life, can come from many sources and in unexpected ways.

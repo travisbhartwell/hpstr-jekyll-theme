@@ -2,7 +2,7 @@
 title: Questions Asked As I Lay In a Hospital Bed
 layout: post
 tags: [Spiritual Sighs, Travis Tales]
-date: 2012-02-13 22:07 -0700
+date: 2012-02-13 22:07 -0600
 ---
 Even though it had been a part of and possibility in my life at the beginning, I don’t think I was consciously aware of the concepts of pain and my own death until I was nearly 8. And the brief moments that taught me this I cannot ever forget.
 

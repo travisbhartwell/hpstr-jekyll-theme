@@ -2,7 +2,7 @@
 title: Mid-Life, Not so Much
 layout: post
 tags: [Spiritual Sighs, Travis Tales]
-date: 2012-02-10 11:22 -0700
+date: 2012-02-10 11:22 -0600
 ---
 
 <p style="text-align: right">Time served on the earth doesn’t mean you grow in mind</p>

@@ -2,7 +2,7 @@
 title: "34 things about me, as an introduction"
 layout: post
 tags: [Travis Tales]
-date: 2011-07-09 01:45 -0700
+date: 2011-07-09 01:45 -0600
 ---
 
 I’ve been inspired by [Ashley](http://www.themiddlefingerproject.org/the-67-emotions-of-online-success-my-story/), [Jenny](http://www.lifeaftercollege.org/blog/about-jenny-blake/100-things-about-me/), and [Sarah’s](http://itstartswith.com/2011/07/27-things-you-dont-know-about-me-or-hello/) blog posts about themselves that I feel the need to write more about myself, especially as an introduction to many of the new people I am meeting during this point of my life.  I’m not quite ready to talk about some of life’s lessons and the emotions that I have gone through the way they did, but these are fun stories and things that help define me.  Chosing 32 items like Sarah did was an attractive idea (it is 2^5, after all, and as a programmer that is significant to me), but I kept going and decided to stop at 34, my current age:

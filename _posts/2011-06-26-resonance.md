@@ -1,7 +1,7 @@
 ---
 title: Resonance
 layout: post
-tags: [Spiritual  Sighs]
+tags: [Spiritual Sighs]
 date: 2011-06-26 03:46 -0600
 ---
 

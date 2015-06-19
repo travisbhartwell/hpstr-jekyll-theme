@@ -8,6 +8,7 @@ date: 2011-06-08 12:27 -0600
 I just made a small donation to help [Cath Duncan](http://twitter.com/cathduncan) and the rest of [Team Juggernaut](http://www.facebook.com/TeamJuggernaut) raise [\$45K](http://kidneyraffle.com/goal/) to help fund kidney research.
 
 [![KidneyRaffle.com Roadway Renegade Supporter](http://kidneyraffle.com/wp-content/uploads/2011/05/roadway_renegade_badge-250x250.jpg)](http://www.on2url.com/app/adtrack.asp?MerchantID=148325&AdID=554561)
+(**As of June 18, 2015: Image and link that was here no longer work.**)
 
 Please, I urge you to [go and donate](http://kidneyraffle.com/) whatever you can spare. It will help the quality of life of millions of people, myself included.
 

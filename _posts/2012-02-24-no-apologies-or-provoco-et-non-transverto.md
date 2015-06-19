@@ -14,7 +14,7 @@ Why do I do this? I know that it is something I have done and felt the need for 
 
 §
 
-![LDS Standard Works]({{site.url}}/images/provoco-et-non-transverto/standardworks.jpg)
+![LDS Standard Works]({{ site.url }}/images/no-apologies-or-provoco-et-non-transverto/standardworks.jpg)
 
 I have many wonderful friends that do not share my religious views and may even sharply disagree with them. I have many wonderful friends that have no religious belief at all.
 
@@ -22,7 +22,7 @@ But my belief in God and my understanding of Him and how to “worship … acco
 
 §
 
-![]({{site-url}}/images/provoco-et-non-transverto/Pema_Chodron.jpg)
+![]({{ site.url }}/images/no-apologies-or-provoco-et-non-transverto/Pema_Chodron.jpg)
 
 I, of course, have many wonderful friends and family members that do share my religion and my church. Many of them seek for their spiritual understanding of the world solely from the teachings of the church, because that is what speaks to them.
 
@@ -30,7 +30,7 @@ But, I will often refer to teachings from a Buddhist teacher or some philosopher
 
 §
 
-[![First principles of differentiation]({{site-url}}/images/provoco-et-non-transverto/first-principles.png)]
+[![First principles of differentiation]({{ site.url }}/images/no-apologies-or-provoco-et-non-transverto/first-principles.png)]
 
 I realize a large number of my friends and family that read what I write either haven’t studied or don’t remember or understand mathematics and physics.
 
@@ -52,7 +52,7 @@ It may seem like above I am defending and defining myself by my tastes. But, in 
 
 My name, though not chosen for this intention, has some deep and telling meaning. Being fascinated by words and language, I like to study word origins and meanings. I’ve discovered that Travis shares the same root as the word “traverse”, which is the Latin word “transversum”. The meaning of the Latin root is “laying across/from side to side; flanking/oblique; moving across/at right angle”. I once found Travis in a list of name meanings, and the one that stuck with me is “At the Crossroads”. The related word “traverse” has a meaning of “a route or way across or over”. It is these two meanings with each day become more and more significant to me.
 
-[![Crossroads]({{site-url}}/images/provoco-et-non-transverto/4311667717_f143ba91d7.jpg)](http://www.flickr.com/photos/marksmallwoodcommunications/4311667717/ "Crossroads by MarkSmallwood, on Flickr")
+[![Crossroads]({{ site.url }}/images/no-apologies-or-provoco-et-non-transverto/4311667717_f143ba91d7.jpg)](http://www.flickr.com/photos/marksmallwoodcommunications/4311667717/ "Crossroads by MarkSmallwood, on Flickr")
 
 A crossroad is where two paths meet; you are not on either one but not really on both either. Before you lies a choice of which way to follow. In so many ways, I have felt at the crossroads in my life. Different from one group, but not quite another. Sitting there at the crossroads, I have views of the different paths. Those of my religion and those not. Those that grok mathematics and physics (and grok, too) and those that don’t. Those disabled and those who are not. Those who have had a healthy life and those seriously ill and looking at their mortality.   Those that use Emacs and those that use vim.  Those that use Ubuntu and those that use Fedora.  I could go on.
 

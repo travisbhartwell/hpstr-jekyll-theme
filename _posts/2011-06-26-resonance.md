@@ -15,7 +15,7 @@ To properly answer that, I need to draw an analogy to some concepts from basic h
 
 Resonance is the process that causes oscillation (either moving back and forth or up and down) in an object. This oscillation happens at a specific frequency, and there is no energy loss or dampening effect from this.
 
-![]({{site.url}}/images/resonance/Simple_harmonic_motion_animation.gif "Simple Harmonic Motion Animations")
+![]({{ site.url }}/images/resonance/Simple_harmonic_motion_animation.gif "Simple Harmonic Motion Animations")
 
 I remember a lab in my college physics class where by some basic calculations we were able to apply the right frequency to a string that would then cause a certain sinusoidal pattern. If our calculations were off, the patterns would not form. These patterns would then only happen at certain frequencies. It was one of the more effective labs for transforming the math behind the physics into application that we could observe.
 

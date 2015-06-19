@@ -20,7 +20,7 @@ First, here’s all of the bottles for the different medications I take in a giv
 
 I believe that is currently 17 different oral medications plus my eye drops.  When I am on top of things, once I week I fill my daily pill boxes, which have four compartments each.  I just finished mine for the upcoming week:
 
-![Pill boxes]({{ site.url }}/image/life-as-a-kidney-transplant-patient-part-1-medication/boxes.jpg)
+![Pill boxes]({{ site.url }}/images/life-as-a-kidney-transplant-patient-part-1-medication/boxes.jpg)
 
 This makes it quite convenient to carry my medication with me.  My current regimen consists of taking the oral medications at 8 AM, noon, 4 PM, and 8 PM.  I am also getting into the routine of using recently prescribed eye drops three times a day, currently at 8 AM, 3 PM, and 10 PM.
 

@@ -55,7 +55,7 @@ This, of course, is a whole other blog entry in itself. But as I bring all thing
 > “Life can hold you down,  
 >  When you’re not looking up”
 >
-> - [Creed, “Inside Us All”](http://mog.com/m/track/30707479 "Inside Us All")
+> - Creed, “Inside Us All”
 
 When Moses and the Israelites were in the wilderness, they face a plague of fiery serpents. God gives Moses instructions on how those that were bit would find relief:
 

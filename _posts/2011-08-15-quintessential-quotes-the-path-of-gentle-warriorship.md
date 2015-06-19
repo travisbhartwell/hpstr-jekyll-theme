@@ -9,7 +9,7 @@ date: 2011-08-15 05:27 -0700
 
 -- [Articles of Faith 1:13](http://lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)
 
-I’d like to share a few quotes that I have found to combine to describe the path that I am on, as I strive to become [a love warrior](http://zebrasounds.net/js-love-project/) or “to connect with the power of our lineage, the lineage of gentle warriorship.” (Chödrön, [Start Where You Are](http://www.amazon.com/Start-Where-You-Are-Compassionate/dp/1570628394/), 49)
+I’d like to share a few quotes that I have found to combine to describe the path that I am on, as I strive to become [a love warrior](http://zebrasounds.net/js-love-project/) (**As on June 18, 2015, Judy's site is down**) or “to connect with the power of our lineage, the lineage of gentle warriorship.” (Chödrön, [Start Where You Are](http://www.amazon.com/Start-Where-You-Are-Compassionate/dp/1570628394/), 49)
 
 I have written and talked much about the difficult times I have gone through in the last few years. As I walk the path of recovery and healing, I’ve started to have moments where the pain, the sorrow, the joy, or the love have been almost palpable. When others have talked or written about their difficulties, I found myself more and more identifying with those feelings, almost everywhere I turn.
 

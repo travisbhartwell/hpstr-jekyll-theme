@@ -52,7 +52,7 @@ Sensitive to the Undercurrent of What Was Going on in Every Moment
 [TGIF: I’m Coming Out and I Want the World to
 Know](http://shelovesmagazine.com/2011/tgif-im-coming-out-and-i-want-the-world-to-know/)
 
-(**As of 18 June 2015, the above article doesn't exist, unforunately.**)
+(**As of June 18, 2015, the above article doesn't exist, unforunately.**)
 
 This beautiful passage (I hope you don’t mind me quoting this much Teen), connected with me at a very deep level. I think I’m still traveling through that place she describes as the end of happiness, but I feel that I have seen glimpses of those moments of being sensitive to the undercurrent. I feel, and I must express.
 

@@ -5,7 +5,7 @@ tags: [Spiritual Sighs, Travis Tales]
 date: 2011-06-17 18:20 -600
 ---
 
-![]({{ site.url }}/images/driving-in-my-car/car.jpg)
+![2009 Honda Civic]({{ site.url }}/images/driving-in-my-car/car.jpg)
 
 It was another one of those moments this morning.  You know it, right?  In my new car.  Leaning back, hand on the steering wheel.  Cruising down the freeway.  My favorite music is blasting, piped from my Android phone to the stereo system.
 

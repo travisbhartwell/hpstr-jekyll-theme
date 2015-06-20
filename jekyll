@@ -1,4 +1,25 @@
 #!/usr/bin/env nix-shell
 #!nix-shell -i bash -p iamtravis nodejs python python27Packages.pygments
 
-jekyll "$@"
+main() {
+    local readonly command=$1
+
+    case $command in
+        "serve")
+            # Drop first argument
+            shift
+            exec jekyll serve --config _config.yml,_config-dev.yml --host localhost --port 8888 "$@"
+            ;;
+        "build-local")
+            # Drop first argument
+            shift
+            exec jekyll build --config _config.yml,_config-dev.yml "$@"
+            ;;
+        *)
+            # Just pass through arguments
+            exec jekyll "$@"
+            ;;
+    esac
+}
+
+main "$@"

@@ -1,19 +1,45 @@
 #!/usr/bin/env nix-shell
-#!nix-shell -i bash -p iamtravis nodejs python python27Packages.pygments
+#!nix-shell --pure -i bash -p iamtravis nodejs python python27Packages.pygments git which
+
+readonly BLOG_DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
 main() {
-    local readonly command=$1
+    readonly local command=$1
 
     case $command in
-        "serve")
-            # Drop first argument
-            shift
-            exec jekyll serve --config _config.yml,_config-dev.yml --host localhost --port 8888 "$@"
-            ;;
         "build-local")
             # Drop first argument
             shift
             exec jekyll build --config _config.yml,_config-dev.yml "$@"
+            ;;
+        "commit-and-push")
+            # Use the rest of the commandline as the commit message
+            shift
+            readonly local commit_msg="$*"
+            cd "${BLOG_DIR}"
+            # Fail if any command fails
+            set -e
+            # Add any changed or new posts and images
+            git add ./_posts ./images
+            # Commit the Posts using the supplied commit message
+            git commit -a -m "${commit_msg}"
+            git push
+            # Make sure the source is built
+            jekyll build
+            cd "${BLOG_DIR}"/_site
+            # Add any new files changed in _site
+            git add .
+            # Commit these, again with the supplied commit message
+            git commit -a -m "${commit_msg}"
+            git push
+            # Turn this back off
+            set +e
+            exit 0
+            ;;
+        "serve")
+            # Drop first argument
+            shift
+            exec jekyll serve --config _config.yml,_config-dev.yml --host localhost --port 8888 "$@"
             ;;
         *)
             # Just pass through arguments

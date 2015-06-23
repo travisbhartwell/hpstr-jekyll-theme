@@ -1,5 +1,5 @@
 #!/usr/bin/env nix-shell
-#!nix-shell --pure -i bash -p iamtravis nodejs python python27Packages.pygments git which openssh
+#!nix-shell -i bash -p iamtravis nodejs python python27Packages.pygments git which openssh
 
 readonly BLOG_DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 

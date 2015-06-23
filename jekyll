@@ -1,5 +1,12 @@
-#!/usr/bin/env nix-shell
-#!nix-shell -i bash -p iamtravis nodejs python python27Packages.pygments git which openssh
+#! /usr/bin/env nix-shell
+#! nix-shell --pure -i bash -p iamtravis nodejs python python27Packages.pygments git which openssh
+
+# These are needed and not passed through because of --pure:
+LANG=en_US.UTF-8
+LOCALE_ARCHIVE=/run/current-system/sw/lib/locale/locale-archive
+TZDIR=/etc/zoneinfo
+
+export LANG LOCALE_ARCHIVE TZDIR
 
 readonly BLOG_DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 

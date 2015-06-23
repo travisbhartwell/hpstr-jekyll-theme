@@ -1,7 +1,7 @@
 ---
 title: World Kidney Day and a special thanks
 layout: post
-categories: [Kidney Keepers, Spiritual Sighs, Travis Tales]
+tags: [Kidney Keepers, Spiritual Sighs, Travis Tales]
 date: 2011-03-11 00:52 -0600
 ---
 

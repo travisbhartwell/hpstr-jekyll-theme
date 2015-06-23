@@ -1,7 +1,7 @@
 ---
 title: 'Life as a Kidney Transplant Patient (Part 1 -- Medication)'
 layout: post
-categories: [Kidney Keepers, Travis Tales]
+tags: [Kidney Keepers, Travis Tales]
 date: 2011-03-13 09:54 -0600
 ---
 

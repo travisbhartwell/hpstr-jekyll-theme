@@ -1,7 +1,7 @@
 ---
 title: My Quest for Spiritual Knowledge
 layout: post
-categories: [Quintessential Quotes, Spiritual Sighs]
+tags: [Quintessential Quotes, Spiritual Sighs]
 date: 2010-06-02 00:01 -0600
 ---
 

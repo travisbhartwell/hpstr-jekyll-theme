@@ -1,7 +1,7 @@
 ---
 title: 'Attention economy – Wikipedia, the free encyclopedia'
 layout: post
-categories: [Quintessential Quotes]
+tags: [Quintessential Quotes]
 date: 2010-08-10 03:17 -0600
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Susan Lim: Transplant cells, not organs"
 layout: post
-categories: [Kidney Keepers, Quintessential Quotes]
+tags: [Kidney Keepers, Quintessential Quotes]
 date: 2011-04-17 04:36 -0600
 ---
 

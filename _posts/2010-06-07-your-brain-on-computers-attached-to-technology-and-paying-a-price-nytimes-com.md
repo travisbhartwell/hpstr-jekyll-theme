@@ -1,7 +1,7 @@
 ---
 title: 'Your Brain on Computers - Attached to Technology and Paying a Price - NYTimes.com'
 layout: post
-categories: [Quintessential Quotes]
+tags: [Quintessential Quotes]
 date: 2010-06-07 00:01 -0600
 ---
 

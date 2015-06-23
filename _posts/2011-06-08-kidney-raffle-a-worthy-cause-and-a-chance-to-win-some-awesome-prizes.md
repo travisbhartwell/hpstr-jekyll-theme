@@ -1,7 +1,7 @@
 ---
 title: "Kidney Raffle — A Worthy Cause and a chance to win some awesome prizes"
 layout: post
-categories: [Kidney Keepers]
+tags: [Kidney Keepers]
 date: 2011-06-08 12:27 -0600
 ---
 

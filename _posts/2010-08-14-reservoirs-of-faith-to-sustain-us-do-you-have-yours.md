@@ -1,7 +1,7 @@
 ---
 title: 'Reservoirs of Faith to Sustain Us — Do you have yours?'
 layout: post
-categories: [Quintessential Quotes, Spiritual Sighs]
+tags: [Quintessential Quotes, Spiritual Sighs]
 date: 2010-08-14 23:13 -0600
 ---
 

@@ -8,9 +8,6 @@ bundlerEnv {
   lockfile = ./Gemfile.lock;
   gemset = ./gemset.nix;
 
-  inherit nodejs;
-  inherit python;
-  inherit pygments;
-
-  buildInputs = [ curl nodejs pygments python ];
+  buildInputs = [ curl ];
+  propogatedUserEnvPkgs = [ nodejs python pygments ];
 }

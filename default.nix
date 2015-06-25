@@ -1,13 +1,23 @@
-{ stdenv, lib, bundlerEnv, ruby_2_1, curl, nodejs, pygments, python }:
+{ stdenv, lib, buildEnv, bundlerEnv, ruby_2_1, curl, nodejs, pygments, python }:
 
-bundlerEnv {
-  name = "iamtravis-jekyll-blog";
+let
+  jekyll-iamtravis-blog = bundlerEnv {
+    name = "jekyll-iamtravis-blog";
 
-  ruby = ruby_2_1;
-  gemfile = ./Gemfile;
-  lockfile = ./Gemfile.lock;
-  gemset = ./gemset.nix;
+    ruby = ruby_2_1;
+    gemfile = ./Gemfile;
+    lockfile = ./Gemfile.lock;
+    gemset = ./gemset.nix;
 
-  buildInputs = [ curl ];
-  propogatedUserEnvPkgs = [ nodejs python pygments ];
+    buildInputs = [ curl ];
+  };
+in buildEnv {
+  name = "iamtravis-blog";
+
+  paths = [
+    jekyll-iamtravis-blog
+    nodejs
+    pygments
+    python
+  ];
 }

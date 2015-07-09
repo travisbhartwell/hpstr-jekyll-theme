@@ -7,10 +7,10 @@
     };
   };
   "activesupport" = {
-    version = "4.2.2";
+    version = "4.2.3";
     source = {
       type = "gem";
-      sha256 = "0yi89dn3v8lwzybgnq72iwnlnya2qyvwvf2mszzyr9ydjc1h375q";
+      sha256 = "0nxngfznpwq33i410h0r1rkgs8sifd257vhb4mqwk66yz254p59k";
     };
     dependencies = [
       "i18n"
@@ -87,10 +87,10 @@
     };
   };
   "ffi" = {
-    version = "1.9.8";
+    version = "1.9.10";
     source = {
       type = "gem";
-      sha256 = "0ph098bv92rn5wl6rn2hwb4ng24v4187sz8pa0bpi9jfh50im879";
+      sha256 = "1m5mprppw0xcrv2mkim5zsk70v089ajzqiq5hpyb0xg96fcyzyxj";
     };
   };
   "gemoji" = {
@@ -372,10 +372,10 @@
     ];
   };
   "octopress-deploy" = {
-    version = "1.2.7";
+    version = "1.3.0";
     source = {
       type = "gem";
-      sha256 = "0b316jbwdnv24f5pib8n1s5vp5vvxarcvycmn85lqpb1r1d3giky";
+      sha256 = "0h5kqfl8a50xkljby2lrm3qn89f25gqi0f6lc5lb7l42lr9ka5zp";
     };
     dependencies = [
       "colorator"
@@ -475,17 +475,17 @@
     };
   };
   "sass" = {
-    version = "3.4.14";
+    version = "3.4.15";
     source = {
       type = "gem";
-      sha256 = "0x2mg6pid87s4ddvv6xnxfzwgy72pjmkm461pav92ngqnngx2ggk";
+      sha256 = "0nbsm28nfyyknaqg601yiwm7cj4cspjva08l5fsq1v19km31likb";
     };
   };
   "terminal-table" = {
-    version = "1.4.5";
+    version = "1.5.2";
     source = {
       type = "gem";
-      sha256 = "168r7p41c6gw0sg9pydas482h3wqzd3l9i4gs3y8jcvd80d5d0dz";
+      sha256 = "1s6qyj9ir1agbbi32li9c0c34dcl0klyxqif6mxy0dbvq7kqfp8f";
     };
   };
   "thread_safe" = {

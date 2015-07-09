@@ -1,5 +1,5 @@
 #! /usr/bin/env nix-shell
-#! nix-shell --pure -i bash -p iamtravis git which openssh
+#! nix-shell --pure --fallback -i bash -p iamtravis git which openssh
 
 # These are needed and not passed through because of --pure:
 LANG=en_US.UTF-8

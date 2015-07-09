@@ -32,7 +32,7 @@ main() {
             git commit -a -m "${commit_msg}"
             git push
             # Make sure the source is built
-            jekyll build
+            jekyll build 
             cd "${BLOG_DIR}"/_site
             # Add any new files changed in _site
             git add .

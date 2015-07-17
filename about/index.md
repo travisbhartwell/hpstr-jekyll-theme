@@ -18,3 +18,7 @@ Have I mentioned how I got this awesome 12-inch scar (among others)?
 I believe the spirit and the body together are the soul of man and it is my life's purpose to unite mind, body, and spirit and bring them all in harmony.
 
 Music is the language my soul understands. Creation in words and code, the language of my mind. And my heart speaks and listens to beauty and truth where ever they may be found, for that is the center of love.
+
+---
+
+I am currently looking for remote, part-time contract positions.  Please look at my [resume]({{ site.url }}/resume/) and get in touch!

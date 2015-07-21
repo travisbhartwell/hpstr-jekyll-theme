@@ -30,7 +30,7 @@ We've submitted pull requests to get this included in [MELPA](http://melpa.org/#
 
 This is just an initial release.  Hopefully more refinements to come.  Feel free to follow along on [Github](https://github.com/travisbhartwell/nix-emacs/).  Submit any issues you may have or submit pull requests.
 
-We also have a [Gitter](https://gitter.im/travisbhartwell/nix-emacs?utm_source=share-link&utm_medium=link&utm_campaign=share-link) channel, if you want to chat with us.
+We also have a [Gitter](https://gitter.im/travisbhartwell/nix-emacs?utm_source=share-link&utm_medium=link&utm_campaign=share-link) channel, if you want to chat with us.  We hope to make it a place to discuss all things Emacs, Spacemacs, and Nix, so please join us.
 
 ---
 

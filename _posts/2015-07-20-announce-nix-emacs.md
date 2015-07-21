@@ -28,4 +28,10 @@ Check out the [README](https://github.com/travisbhartwell/nix-emacs/blob/v0.0.1/
 
 We've submitted pull requests to get this included in [MELPA](http://melpa.org/#/) so you can easily install it.  Also, we've submitted a pull request to [Spacemacs](https://github.com/syl20bnr/spacemacs/), the Emacs configuration we both use, to add a Nix layer, with everything configured out of the box.
 
-This is just an initial release.  Hopefully more refinements to come.  Feel free to follow along on [Github](https://github.com/travisbhartwell/nix-emacs/).  Submit any issues you may have, submit pull requests, etc.
+This is just an initial release.  Hopefully more refinements to come.  Feel free to follow along on [Github](https://github.com/travisbhartwell/nix-emacs/).  Submit any issues you may have or submit pull requests.
+
+We also have a [Gitter](https://gitter.im/travisbhartwell/nix-emacs?utm_source=share-link&utm_medium=link&utm_campaign=share-link) channel, if you want to chat with us.
+
+---
+
+Updated on 2015-07-21 to add Gitter link.

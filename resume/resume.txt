@@ -1,0 +1,177 @@
+Travis B. Hartwell
+==================
+
+<nafai@travishartwell.net>
+<http://iam.travishartwell.net/>
+(801) 753-8626
+Idaho Falls, Idaho
+
+Skills Summary
+--------------
+
+-   Programming Languages
+    -   *Experienced and Proficient*: Python, Java, bash scripting, C,
+        Emacs Lisp
+    -   *Some experience*: Lua, SQL, Haskell, Common Lisp, Javascript,
+        C++
+-   GUI development
+    -   *With Java*: SWT, Eclipse RCP, Swing
+    -   *In Python, C, Haskell*: Gtk and Gnome
+-   Network service development, particularly with Twisted in Python
+-   HTML and CSS
+-   System Administration
+    -   Extensive admin of Debian and Ubuntu. (*primary personal
+        operating system for fifteen years*)
+    -   Debian packaging and some RPM packaging.
+    -   NixOS packaging and administration.
+    -   Some CentOS, RHEL, and Arch Linux admin and Linux administration
+        in general.
+-   Extensive use and administration of git and Subversion.
+-   Some use of bzr, CVS, hg, and darcs.
+
+Professional Experience
+-----------------------
+
+### Independent Contractor, major clients and projects listed, primarily remote
+
+*September 2006 to present*
+
+-   **[Binary Cocoa](http://www.binarycocoa.com/)**, *December 2011 to
+    September 2014*
+    -   Wrote AI player for [BOCO](http://www.bocogame.com/) in Lua.
+    -   Created Debian, Ubuntu, and Fedora packages for games for the
+        Humble Bundle for Android, used by approximately 50,000
+        customers.
+-   **[Leading 2 Lean](http://www.leading2lean.com/)**, *August 2011 to
+    November 2011*
+    -   Updated and improved site deployment scripts for deploying from
+        git.
+    -   Wrote web administrative interface for the deployment using
+        Python and Django.
+-   **[Send Out Cards](http://www.sendoutcards.com/)**, *May 2011 to
+    August 2011*
+    -   Refactored, fixed bugs, and packaged software used to prepare
+        all cards for printing (or *Pre-Press*).
+    -   Studied Scala and the Lift web framework to contribute to web
+        interface for Pre-Press.
+    -   Supported team members in Linux and git use.
+-   **[NetRadius](http://www.netradius.com/)**, *intermittent, as
+    needed, September 2006 to November 2011*
+    -   Developed build and deployment process improvements for client's
+        Java desktop application. Also fixed bugs in data export portion
+        of application.
+    -   Implemented various JSP report screens and their back-end data
+        objects for client web application.
+
+### [Canonical USA](http://www.canonical.com/), remote
+
+**Desktop Software Developer**, *February 2010 to May 2010*
+
+-   Started as a contractor, hired as full-time employee before contract
+    was up.
+-   Added support to [Gnome](http://www.gnome.org/) applications
+    (brasero, gnome-bluetooth, vino, and Gnome Control Center) for
+    Ubuntu's application indicators, working with upstream Gnome
+    developers to get patches reviewed and accepted.
+-   Tracked down reported application bugs by examining and fixing code
+    from the application level through the Gnome stack including Gtk.
+-   Fixed show-stopping CPU usage issue in
+    [Gwibber](http://www.gwibber.com/) by changing how Gnome Keyring was
+    used with threading.
+
+### [Mozy](http://www.mozy.com/), Pleasant Grove, Utah
+
+**Senior System Administrator**, *November 2008 to October 2009*
+
+-   Developed automation tools to manage thousands of heterogeneous
+    Debian servers and associated hardware. Tools were primarily
+    client-server software written with the Twisted Asynchronous Python
+    Networking framework.
+-   Administered thousands of Debian servers, as part of a team,
+    handling day to day errors and maintenance as needed.
+
+### Feature 50, Draper, Utah
+
+**Senior Software Developer**, *February 2008 to August 2008*
+
+-   Cross-team support for a custom Java Swing grid component including:
+    new features, bug fixes, and technical support.
+-   Improved manual test suite harness for grid component enabling
+    easier reproduction of bugs and scenarios of production
+    environments.
+-   Integrated support for generating editable JFormDesigner forms for
+    dynamically generated Swing layouts.
+-   Increased efficiency and reliability of a JMS-based monitoring
+    dashboard application. Provided system administration support for
+    same application.
+
+### [21st Century Technologies](http://www.21ct.com/), Austin, Texas
+
+**Software Engineer**, *May 2006 to February 2008*
+
+-   Designed and developed general script execution system for the
+    Lynxeon advanced analytics platform, integrating Jython and Enhydra
+    Shark as execution engines. Wrote custom Jython import mechanism
+    from JSR 170 content repository.
+-   Set up Maven 2 builds and other automation for team projects,
+    including Bamboo automated build server and scripting to set up
+    local Maven 2 mirror.
+-   Contributed compiler extensions for the Lynxeon Pattern Query
+    Language to support new language constructs.
+-   Wrote extension of Postgis extras Tiger geocoder for international
+    cities.
+-   Integrated uDig into Lynxeon Analyst Studio (an Eclipse RCP
+    application), including custom data export dialogs and project
+    synchronization.
+
+### Roxor Games, Austin, Texas
+
+**Systems Engineer**, *May 2004 to May 2006*
+
+-   Game Development Team Lead
+    -   Lead development of [Road Rebel](http://www.roadrebel.com/)
+        arcade game implemented with the Torque Game Engine in C++ and
+        Torque Script.
+-   Factory Workflow Automation
+    -   Increased factory production capacity 40 times through the
+        design and implementation of a hardware and software system.
+    -   Designed and implemented software tools used for monitoring,
+        quality control, and shipping preparation of arcade units.
+
+Open Source and Community Contributions
+---------------------------------------
+
+-   Contributor to
+    [Lowbrow](http://www.github.com/krainboltgreene/Lowbrow.app), a
+    browser for development.
+-   Recent contributions of code, packages, and documentation to
+    [NixOS](http://www.nixos.org) and
+    [Spacemacs](http://www.github.com/syl30bnr/spacemacs).
+-   Contributed support, bug fixes, and documentation for the
+    [Twisted](http://twistedmatrix.com) Project.
+-   All personal open source code and contributions can be found at
+    <http://www.github.com/travisbhartwell/> and
+    <http://www.gitlab.com/u/travisbhartwell>.
+
+Publications and Presentations
+------------------------------
+
+-   Presented at PyCon DC 2004, “PyGtk and PyGnome Programming.”
+-   Gave extended version of PyGtk presentation at the 3rd USU Free
+    Software and Linux Forum.
+-   Presented at PyCon DC 2003, “A Twisted Web Tutorial.”
+-   Taught in-depth workshops, “Beginning Emacs Editor Usage” and
+    “Beginning Python Programming.”
+-   Gave various presentations, primarily around Python, at local user
+    groups.
+-   Published code in colleague Marc Anderson's Master's thesis,
+    “Adapting Minimum Temperature Forecasts to Fruit Orchards in the
+    Intermountain West.”
+
+Education
+---------
+
+Utah State University
+Computer Science, Fall 2003
+B.S., Science Emphasis with Mathematics minor
+

@@ -9,7 +9,7 @@ I created a quick screencast the other day.  It was an introduction to [Spacemac
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xFp9Jahs8Ng" frameborder="0" allowfullscreen> </iframe>
 
-All that is required is Gnus Emacs 24 and git.
+All that is required is Gnu Emacs 24 and git.
 
 Feel free to check out my [Spacemacs configuration](https://gitlab.com/travisbhartwell/vcsh_emacs/tree/master).  Reach out on [Twitter](http://www.twitter.com/travisbhartwell) if you have any questions.
 

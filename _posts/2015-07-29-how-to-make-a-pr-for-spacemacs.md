@@ -71,7 +71,7 @@ You are now ready to submit your pull request.  Switch back to your browser to t
 
 1.  Github will show your recently pushed branches near the top, in a yellow box.  Refresh your page if you don't see this.  Click the green *"Compare & pull request"* button.
 
-2.  In the next screen, Github will prompt you for a branch to compare against.  By default it will show *base: master*.  We want to select `develop` here.  As shown in the video, it make take a minute for the page to update after you have selected the `develop` branch.
+2.  In the next screen, Github will prompt you for a branch to compare against.  By default it will show *base: master*.  We want to select `develop` here.  As shown in the video, it may take a minute for the page to update after you have selected the `develop` branch.
 
 3.  If you've done everything right, it will be able to cleanly merge your commit and will indicate so.  It will then pull from your commit message the subject and description.  If you've written a good commit message, there should be no need to add anything here.  Click *Create pull request*.
 

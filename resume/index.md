@@ -30,6 +30,7 @@ Idaho Falls, Idaho
  + Some use of bzr, CVS, hg, and darcs.
 
 ## Professional Experience
+
 ### [Basho Technologies](http://www.basho.com/), remote
 **Professional Services Contractor**, _September 2015 to present_
 

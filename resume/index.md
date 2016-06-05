@@ -12,8 +12,8 @@ Idaho Falls, Idaho
 
 ## Skills Summary
  + Programming Languages
-     - _Experienced and Proficient_: Python, Java, bash scripting, C, Emacs Lisp
-     - _Some experience_: Lua, SQL, Haskell, Common Lisp, Javascript, C++
+     - _Experienced and Proficient_: Python, Java, Bash scripting, C, Emacs Lisp
+     - _Some experience_: Lua, SQL, Haskell, Common Lisp, Javascript, C++, Golang, Erlang
  + GUI development
      - _With Java_: SWT, Eclipse RCP, Swing
      - _In Python, C, Haskell_: Gtk and Gnome
@@ -24,10 +24,19 @@ Idaho Falls, Idaho
      - Debian packaging and some RPM packaging.
      - NixOS packaging and administration.
      - Some CentOS, RHEL, and Arch Linux admin and Linux administration in general.
+     - Docker use and Dockerfile creation
+     - Apache Mesos use and configuration
  + Extensive use and administration of git and Subversion.
  + Some use of bzr, CVS, hg, and darcs.
 
 ## Professional Experience
+### [Basho Technologies](http://www.basho.com/), remote
+**Professional Services Contractor**, _September 2015 to present_
+
+ + Managed provisioning, configuring, and administering clusters running Mesos used by development teams for test and development using Ansible.
+ + Added features to [Riak Explorer](https://github.com/basho-labs/riak_explorer), including Riak EE Replication support.
+ + Fixed bugs in [Golang version of Riak Mesos Framework](https://github.com/basho-labs/riak-mesos-legacy),
+ + Wrote and executed formal test plans and reports for clients covering performance testing, operational testing, and scaling testing.
 
 ### Independent Contractor, major clients and projects listed, primarily remote
 _September 2006 to present_
@@ -90,12 +99,13 @@ _September 2006 to present_
      - Designed and implemented software tools used for monitoring, quality control, and shipping preparation of arcade units.
 
 ## Open Source and Community Contributions
- + Contributor to [Lowbrow](http://www.github.com/krainboltgreene/Lowbrow.app), a browser for development.
+ + Creator and contributor to [Nix Emacs](https://github.com/travisbhartwell/nix-emacs).
  + Recent contributions of code, packages, and documentation to [NixOS](http://www.nixos.org) and [Spacemacs](http://www.github.com/syl30bnr/spacemacs).
  + Contributed support, bug fixes, and documentation for the [Twisted](http://twistedmatrix.com) Project.
  + All personal open source code and contributions can be found at <http://www.github.com/travisbhartwell/> and <http://www.gitlab.com/u/travisbhartwell>.
 
 ## Publications and Presentations
+ + Presenting at Open West 2016, "Spacemacs: The Best of Both the Emacs and Vim Worlds."
  + Presented at PyCon DC 2004, “PyGtk and PyGnome Programming.”
  + Gave extended version of PyGtk presentation at the 3rd USU Free Software and Linux Forum.
  + Presented at PyCon DC 2003, “A Twisted Web Tutorial.”
@@ -113,5 +123,4 @@ B.S., Science Emphasis with Mathematics minor
 Other formats:
 
  + [PDF]({{ site.url }}/resume/resume.pdf)
- + [DOCX]({{ site.url}}/resume/resume.docx)
  + [TEXT]({{ site.url}}/resume/resume.txt)

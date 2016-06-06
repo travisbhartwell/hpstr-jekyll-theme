@@ -13,7 +13,7 @@ Idaho Falls, Idaho
 ## Skills Summary
  + Programming Languages
      - _Experienced and Proficient_: Python, Java, Bash scripting, C, Emacs Lisp
-     - _Some experience_: Lua, SQL, Haskell, Common Lisp, Javascript, C++, Golang, Erlang
+     - _Some experience_: Lua, SQL, Haskell, Common Lisp, Javascript, C++, Go, Erlang
  + GUI development
      - _With Java_: SWT, Eclipse RCP, Swing
      - _In Python, C, Haskell_: Gtk and Gnome
@@ -36,7 +36,8 @@ Idaho Falls, Idaho
 
  + Managed provisioning, configuring, and administering clusters running Mesos used by development teams for test and development using Ansible.
  + Added features to [Riak Explorer](https://github.com/basho-labs/riak_explorer), including Riak EE Replication support.
- + Fixed bugs in [Golang version of Riak Mesos Framework](https://github.com/basho-labs/riak-mesos-legacy),
+ + Added features and tests to the [Riak Mesos Tools](https://github.com/basho-labs/riak-mesos-tools).
+ + Fixed bugs in [Go version of Riak Mesos Framework](https://github.com/basho-labs/riak-mesos-legacy),
  + Wrote and executed formal test plans and reports for clients covering performance testing, operational testing, and scaling testing.
 
 ### Independent Contractor, major clients and projects listed, primarily remote

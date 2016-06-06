@@ -15,7 +15,7 @@ Skills Summary
     -   _Experienced and Proficient_: Python, Java, Bash scripting, C,
         Emacs Lisp
     -   _Some experience_: Lua, SQL, Haskell, Common Lisp, Javascript,
-        C++, Golang, Erlang
+        C++, Go, Erlang
 -   GUI development
     -   _With Java_: SWT, Eclipse RCP, Swing
     -   _In Python, C, Haskell_: Gtk and Gnome
@@ -45,7 +45,8 @@ PROFESSIONAL SERVICES CONTRACTOR, _September 2015 to present_
     using Ansible.
 -   Added features to Riak Explorer, including Riak EE
     Replication support.
--   Fixed bugs in Golang version of Riak Mesos Framework,
+-   Added features and tests to the Riak Mesos Tools.
+-   Fixed bugs in Go version of Riak Mesos Framework,
 -   Wrote and executed formal test plans and reports for clients
     covering performance testing, operational testing, and
     scaling testing.

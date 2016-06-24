@@ -104,7 +104,7 @@ _September 2006 to present_
  + Creator and contributor to [Nix Emacs](https://github.com/travisbhartwell/nix-emacs).
  + Recent contributions of code, packages, and documentation to [NixOS](http://www.nixos.org) and [Spacemacs](http://www.github.com/syl30bnr/spacemacs).
  + Contributed support, bug fixes, and documentation for the [Twisted](http://twistedmatrix.com) Project.
- + All personal open source code and contributions can be found at <http://www.github.com/travisbhartwell/> and <http://www.gitlab.com/u/travisbhartwell>.
+ + All personal open source code and contributions can be found at <http://www.github.com/travisbhartwell/> and <http://gitlab.com/u/travisbhartwell>.
 
 ## Publications and Presentations
  + Presenting at Open West 2016, "Spacemacs: The Best of Both the Emacs and Vim Worlds."

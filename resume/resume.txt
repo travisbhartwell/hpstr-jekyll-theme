@@ -162,7 +162,7 @@ Open Source and Community Contributions
     Twisted Project.
 -   All personal open source code and contributions can be found at
     http://www.github.com/travisbhartwell/ and
-    http://www.gitlab.com/u/travisbhartwell.
+    http://gitlab.com/u/travisbhartwell.
 
 
 Publications and Presentations

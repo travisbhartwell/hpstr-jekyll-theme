@@ -1,0 +1,75 @@
+https://keybase.io/travisbhartwell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://iam.travishartwell.net
+  * I am travisbhartwell (https://keybase.io/travisbhartwell) on keybase.
+  * I have a public key with fingerprint 0023 8E58 1D97 E63B 0816  66AB E2AD 702C 2356 2D0B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.25"
+        },
+        "key": {
+            "eldest_kid": "0101f19ea436a2d709d17d62204e571c5fdd6e404f6b58703ebb26e61dd80dee22090a",
+            "fingerprint": "00238e581d97e63b081666abe2ad702c23562d0b",
+            "host": "keybase.io",
+            "key_id": "e2ad702c23562d0b",
+            "kid": "0101f19ea436a2d709d17d62204e571c5fdd6e404f6b58703ebb26e61dd80dee22090a",
+            "uid": "b3605b5d822665dbeb55d5f7e2b72019",
+            "username": "travisbhartwell"
+        },
+        "service": {
+            "hostname": "iam.travishartwell.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467260780,
+    "expire_in": 157680000,
+    "prev": "efe88f2a78f59fcfb48a66936ca30b1d49bbb7597dd09e3812794bd5ef243dc4",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtkntMFFcUxnelyGO1QJAKjbE42IBhu87M7rzWmFalSWu1q9JKGoFl7t67MLI7
+s+wOIK+SUkPFIkgbaayPNqUxEjX1EZC4CAakarUVJAFaZQXE2oKUV1EpjXSGYtIm
+/bP3r5vc3/nOd75z9y/20wRqB0659DHbX9Fpr/8KNEnyF44CDEgwDzMXYDaHgERZ
+vYm8E2FmLBPlAd6DDIIULUoQGXZ6oucZPZaD3B5BEhUKN7AGksKK9CqvViMHRB7Z
+milA9ZXACTvBId5kpHkSMjgHCQbSJImbEMUQNsoOIY1MuMlOA4plcCMCgKQRTUDI
+4hAhBeRwXmloF8R05Ha5BdUihuOkkUUUS0COQbQR4CxB0zQPEMkrPUgbaaRoEuJA
+KcyQPPK/hsHmnFrn7P0H/z/7zp6TA0YapwAFWZKkaQoCBCgKUnYGkYAhcYJTQQ9y
+zwcvu/kcwQMyeLecixwONVvlMUewITVfdaB5UOCdhr/hZ6xBROp6XG5JlmySQ2Ey
+ZNllViXkPJdak4uAdU7tuA1ZgSBCJdh/LpRQUJssqPqEiWZIGmdYXI+hXS7BjayC
+SlAMzeLKUfugHDVGO2JZO8kzrJ3i7DY7MLE8TXNG2sYbcUBAEwcAYCiOgRDnkJEl
+SIYzAUghO2kyQpsJUwfMEiXMTCs++XRF0iOki7yc7UZYUdmCZc9ptIGahf4L1B+r
+CQ4KffaNfb6Q2dzmocGOtFTpQsS7Xbde614qL39BsiTUp9ad28osarkbfr7We/nH
+w96ob71HhpI2M+O/1yUfWe+MKw29U1lZx3wjxphvVJeaNyxPWFXYiwKSH296WOFz
+tx8tAWFr9WVvTAbFb77UtHTDTatDB048efrbdp3vg72V1b2jwdeDW5gA39sfdaan
+JV/znzj68Y7auLznZxqzF+7wr2rQth8Peykqu/Cy4/XBzsS0sv3hPRvfawW+rsTY
+ppkTF4uao/pqp9u2TZUW/pISA3Mjv0pp13WtTk9pyx7fs+VYROPeZTtr/cbC33ea
+OiLt7UOtL68wfrevw/KD9mpVbPBoi8M5UtK5Nr4nMF/vPFkzFhr9JvxD6r4yuKb1
+0BK/ms57AWM530d0blwcl3R/t77vvGZy3G9R5h3LNm3DgemIrKr+vvKpqNnRT+G9
+0YHAAe8xm9a1PkwXfvDc/fwm5vFU04eRPz1Z0+9Xc6DXW5wfy5lf3DQ8cnsaD+Us
+GVTIknUns872PtrSfGjsoHTaEea6crdMXBU3IcUm3h6YqViZXP/5yJm2YrEgqLb9
+dG/CroqZre/cKql7+mX98NXYa2NjC8QJcKn/zIQhvqj81dSVWLVTV+xIafzk588q
+zg7f9D/VFxLwtX/Pn7vjw8bLH76V2BBjMc9eRIfXxXVzD1brkiw3Cuu943uqVwxN
+Oh9cePQX
+=234D
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/travisbhartwell
